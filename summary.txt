@@ -1,0 +1,13 @@
+COVID-19 Data Analysis - Summar
+
+1. The analysis compares daily COVID-19 cases across the top 5 countries in the dataset.
+
+2. A 7-day rolling average was used to smooth daily fluctuations and identify the overall case trend.
+
+3. The United States (US) had the highest total confirmed cases among the countries analyzed in this dataset.
+
+4. The peak daily cases for the US were 300,462 on 1/2/21.
+
+5. Higher increases in daily cases indicate faster spread during specific periods. This analysis uses case trends and rolling averages rather than estimating a formal reproduction number (R0 or Rt).
+
+6. The analysis exported country comparison and 7-day rolling average charts for visualization and reporting.
